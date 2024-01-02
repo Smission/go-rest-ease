@@ -1,4 +1,4 @@
-```markdown
+
 # gorestease
 
 gorestease is a lightweight Golang package for simplifying HTTP requests with flexibility and customization options.
