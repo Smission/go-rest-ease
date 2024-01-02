@@ -23,6 +23,7 @@ import (
 
 func main() {
     // Example: Sending a POST request with HTML content
+    htmlContent := "<div> Some html content <div>"
 
     // Create Params for the request
     p := gorestease.Params{
